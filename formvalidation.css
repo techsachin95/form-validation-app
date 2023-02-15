@@ -1,0 +1,30 @@
+fieldset{
+    height: 500px;width: 500px;margin: auto;font-weight: bold;
+    border-radius: 20px;background-color: lightblue;margin-top: 50px;
+}
+legend{
+    text-align: center;
+}
+#form{
+    margin-top: 30px;
+}
+label{
+    padding-left: 10px;
+}
+span{
+    color: red;font-size: 20px;margin-left: 5px;
+}
+input{
+    margin-top: 10px;margin-bottom: 30px;height: 30px;margin-left: 10px;
+    width: 470px;border-radius: 5px;font-size: 15px;padding-left: 10px;border: none;
+}
+input:hover{
+    background-color:#b8e994;
+}
+#submit{
+    background-color:orange;color: black;font-size: 15px;
+    font-weight: bold;margin-left: px;height: 40px; width: 480px;
+}
+#submit:hover{
+    background-color:green;color: white;
+}
